@@ -1,4 +1,4 @@
-# OptimalControlApproachToNonrigidImageRegistration
+# VP-control
 
 Open test_newStrategy2.m in MatLab and run.
 
